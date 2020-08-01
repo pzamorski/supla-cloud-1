@@ -186,7 +186,7 @@
             }
 
             &.locked {
-                background: $supla-red;
+                background: $supla-black;
                 color: $supla-white;
             }
         }
